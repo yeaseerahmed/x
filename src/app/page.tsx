@@ -11,7 +11,7 @@ export default function Home() {
         </h1>
 
         <p className="text-lg text-gray-200 mb-6">
-          Built by <span className="font-semibold text-white">Rajas</span>
+          Built by <span className="font-semibold text-white">Raja</span>
         </p>
 
         <button className="px-6 py-3 bg-white text-purple-600 font-semibold rounded-full shadow-md hover:bg-purple-100 transition duration-300">
